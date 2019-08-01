@@ -157,7 +157,7 @@ abuse ``_closed=False`` to produce them.
 """
 import re
 from urllib.parse import quote as url_escape
-from UserDict import DictMixin
+from collections import MutableMapping as DictMixin
 
 import markupsafe
 try:

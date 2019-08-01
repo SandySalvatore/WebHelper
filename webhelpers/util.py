@@ -9,7 +9,7 @@ import copy
 import sys
 import urllib.request, urllib.parse, urllib.error
 import urllib.parse
-from UserDict import DictMixin
+from collections import MutableMapping as DictMixin
 from xml.sax.saxutils import XMLGenerator
 
 try:
