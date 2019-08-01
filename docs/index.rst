@@ -1,6 +1,6 @@
 WebHelpers
 %%%%%%%%%%
-:Version: 1.3, released 2011-03-23
+:Version: 1.4, released 2011-03-23
 :PyPI: http://pypi.python.org/pypi/WebHelpers
 :Docs: http://sluggo.scrapping.cc/python/WebHelpers/index.html
 :Source: https://bitbucket.org/bbangert/webhelpers (Mercurial)
